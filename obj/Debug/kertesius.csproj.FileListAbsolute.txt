@@ -1,0 +1,10 @@
+D:\C#\FORM\kertesius\bin\Debug\kertesius.exe.config
+D:\C#\FORM\kertesius\bin\Debug\kertesius.exe
+D:\C#\FORM\kertesius\bin\Debug\kertesius.pdb
+D:\C#\FORM\kertesius\obj\Debug\kertesius.csprojAssemblyReference.cache
+D:\C#\FORM\kertesius\obj\Debug\kertesius.Kartesius.resources
+D:\C#\FORM\kertesius\obj\Debug\kertesius.Properties.Resources.resources
+D:\C#\FORM\kertesius\obj\Debug\kertesius.csproj.GenerateResource.cache
+D:\C#\FORM\kertesius\obj\Debug\kertesius.csproj.CoreCompileInputs.cache
+D:\C#\FORM\kertesius\obj\Debug\kertesius.exe
+D:\C#\FORM\kertesius\obj\Debug\kertesius.pdb
